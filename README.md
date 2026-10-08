@@ -1,22 +1,19 @@
 Pruebas de API | Urban Grocers | QA Engineer Bootcamp - TripleTen 2026
 
 ## Descripción
-Urban Routes es una aplicación de transporte en la que los usuarios reservan un automóvil y consultan la ruta, la duración y el precio del viaje. Mi objetivo fue comprobar, a partir de sus requisitos funcionales, que la aplicación se comportara como se espera antes de su liberación.
+Urban Grocers es una aplicación de comercio electrónico en la que los usuarios pueden gestionar productos y realizar pedidos. Mi objetivo fue comprobar, a partir de los requisitos del backend y la documentación de la API, que los endpoints funcionaran correctamente y respondieran de acuerdo con lo esperado.
 
 ## Diseño y Alcance de las Pruebas
-• Analicé los requisitos funcionales y diseñé casos de prueba con clases de equivalencia y análisis de valores límite para validar la reserva de automóvil, el cálculo de rutas, la duración y el precio.
-• Elaboré mapas mentales y diagramas de flujo para representar la lógica del sistema e identificar escenarios de prueba.
-• Validé la funcionalidad, interfaz y cálculos de la aplicación.
-• Ejecuté pruebas funcionales y de regresión en diferentes navegadores y resoluciones.
-• Detecté y documenté bug durante las pruebas.
+• Analicé los requisitos del backend y la documentación de la API.
+• Diseñé casos de prueba positivos y negativos para los endpoints.
+• Ejecuté pruebas de endpoints con Postman, validando códigos de estado, estructura y lógica de respuesta.
 
 ## Herramientas y Técnicas:
+• Postman
 • Jira
-• Draw.io
-• Casos de prueba
-• Clases de equivalencia
-• Análisis de valores límite
-• Pruebas funcionales y de regresión.
+• Pruebas positivas y negativas
+• Validación de códigos de estado
+• Pruebas de API
 
 ## Resultado
-Ampliación de la cobertura de pruebas mediante la identificación de escenarios positivos, negativos y casos límite, contribuyendo a detectar defectos antes de la liberación de la funcionalidad.
+Detección y documentación de fallos en la API.
