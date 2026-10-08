@@ -1,4 +1,4 @@
-Pruebas funcionales y diseño de pruebas | Urban Routes | QA Engineer Bootcamp - TripleTen 2026
+Pruebas de API | Urban Grocers | QA Engineer Bootcamp - TripleTen 2026
 
 ## Descripción
 Urban Routes es una aplicación de transporte en la que los usuarios reservan un automóvil y consultan la ruta, la duración y el precio del viaje. Mi objetivo fue comprobar, a partir de sus requisitos funcionales, que la aplicación se comportara como se espera antes de su liberación.
