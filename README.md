@@ -8,7 +8,7 @@ Urban Grocers es una aplicación de comercio electrónico en la que los usuarios
 - Diseñé casos de prueba positivos y negativos para los endpoints.
 - Ejecuté pruebas de endpoints con Postman, validando códigos de estado, estructura y lógica de respuesta.
 
-## Herramientas y Técnicas:
+## Herramientas y Técnicas
 - Postman
 - Jira
 - Pruebas positivas y negativas
